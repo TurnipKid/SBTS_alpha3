@@ -1,0 +1,936 @@
+fileFormatVersion: 2
+guid: b7d49768e6acc9d4785abf59525df7b7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3162784259233603446
+    second: PANTS BLACK DENIM IDLE ACTIVE (1)_0
+  - first:
+      213: 2449888633041103664
+    second: PANTS BLACK DENIM IDLE ACTIVE (1)_1
+  - first:
+      213: -4514514920470147365
+    second: PANTS BLACK DENIM IDLE ACTIVE (1)_2
+  - first:
+      213: 3840266610782425150
+    second: PANTS BLACK DENIM IDLE ACTIVE (1)_3
+  - first:
+      213: -3000834650992847851
+    second: PANTS BLACK DENIM IDLE ACTIVE (1)_4
+  - first:
+      213: -1747356220675829875
+    second: PANTS BLACK DENIM IDLE ACTIVE (1)_5
+  - first:
+      213: -6249225148934622210
+    second: PANTS BLACK DENIM IDLE ACTIVE (1)_6
+  - first:
+      213: 5740770207285221099
+    second: PANTS BLACK DENIM IDLE ACTIVE (1)_7
+  - first:
+      213: 2944793281392054602
+    second: PANTS BLACK DENIM IDLE ACTIVE (1)_8
+  - first:
+      213: 9018257608029391254
+    second: PANTS BLACK DENIM IDLE ACTIVE (1)_9
+  - first:
+      213: 4580435718125051965
+    second: PANTS BLACK DENIM IDLE ACTIVE (1)_10
+  - first:
+      213: -3452171749311539918
+    second: PANTS BLACK DENIM IDLE ACTIVE (1)_11
+  - first:
+      213: -7923905141071962253
+    second: PANTS BLACK DENIM IDLE ACTIVE (1)_12
+  - first:
+      213: 824039235642243169
+    second: PANTS BLACK DENIM IDLE ACTIVE (1)_13
+  - first:
+      213: 2547496561701597178
+    second: PANTS BLACK DENIM IDLE ACTIVE (1)_14
+  - first:
+      213: 6194306968714801579
+    second: PANTS BLACK DENIM IDLE ACTIVE (1)_15
+  - first:
+      213: -6629474089054830482
+    second: PANTS BLACK DENIM IDLE ACTIVE (1)_16
+  - first:
+      213: 3139609324819704701
+    second: PANTS BLACK DENIM IDLE ACTIVE (1)_17
+  - first:
+      213: 6653128472990929812
+    second: PANTS BLACK DENIM IDLE ACTIVE (1)_18
+  - first:
+      213: -7342551857611177635
+    second: PANTS BLACK DENIM IDLE ACTIVE (1)_19
+  - first:
+      213: -3703719967517234010
+    second: PANTS BLACK DENIM IDLE ACTIVE (1)_20
+  - first:
+      213: 3810933990240839026
+    second: PANTS BLACK DENIM IDLE ACTIVE (1)_21
+  - first:
+      213: 5336414181518712545
+    second: PANTS BLACK DENIM IDLE ACTIVE (1)_22
+  - first:
+      213: 3474570185260518125
+    second: PANTS BLACK DENIM IDLE ACTIVE (1)_23
+  - first:
+      213: 8925017454810195856
+    second: PANTS BLACK DENIM IDLE ACTIVE (1)_24
+  - first:
+      213: 823180695828250420
+    second: PANTS BLACK DENIM IDLE ACTIVE (1)_25
+  - first:
+      213: 7116226727268790006
+    second: PANTS BLACK DENIM IDLE ACTIVE (1)_26
+  - first:
+      213: 4498742270698803977
+    second: PANTS BLACK DENIM IDLE ACTIVE (1)_27
+  - first:
+      213: -690159993953962809
+    second: PANTS BLACK DENIM IDLE ACTIVE (1)_28
+  - first:
+      213: 1592435131560720363
+    second: PANTS BLACK DENIM IDLE ACTIVE (1)_29
+  - first:
+      213: -1871274717630278179
+    second: PANTS BLACK DENIM IDLE ACTIVE (1)_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PANTS BLACK DENIM IDLE ACTIVE (1)_0
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 917
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67fd0d0d68774eb20800000000000000
+      internalID: 3162784259233603446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS BLACK DENIM IDLE ACTIVE (1)_1
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 933
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03baeaf4bb0cff120800000000000000
+      internalID: 2449888633041103664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS BLACK DENIM IDLE ACTIVE (1)_2
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 364
+        width: 553
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bde0d2849983951c0800000000000000
+      internalID: -4514514920470147365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS BLACK DENIM IDLE ACTIVE (1)_3
+      rect:
+        serializedVersion: 2
+        x: 1910
+        y: 612
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e30da7ac22e5b4530800000000000000
+      internalID: 3840266610782425150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS BLACK DENIM IDLE ACTIVE (1)_4
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 620
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51453e5b8c4ea56d0800000000000000
+      internalID: -3000834650992847851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS BLACK DENIM IDLE ACTIVE (1)_5
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 605
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8f4c8276c420c7e0800000000000000
+      internalID: -1747356220675829875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS BLACK DENIM IDLE ACTIVE (1)_6
+      rect:
+        serializedVersion: 2
+        x: 1882
+        y: 548
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef3705c36da4649a0800000000000000
+      internalID: -6249225148934622210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS BLACK DENIM IDLE ACTIVE (1)_7
+      rect:
+        serializedVersion: 2
+        x: 1903
+        y: 564
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be6916e66105baf40800000000000000
+      internalID: 5740770207285221099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS BLACK DENIM IDLE ACTIVE (1)_8
+      rect:
+        serializedVersion: 2
+        x: 1933
+        y: 557
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a41945223e10ed820800000000000000
+      internalID: 2944793281392054602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS BLACK DENIM IDLE ACTIVE (1)_9
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 555
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6994e838389472d70800000000000000
+      internalID: 9018257608029391254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS BLACK DENIM IDLE ACTIVE (1)_10
+      rect:
+        serializedVersion: 2
+        x: 1898
+        y: 551
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d30ea57740af09f30800000000000000
+      internalID: 4580435718125051965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS BLACK DENIM IDLE ACTIVE (1)_11
+      rect:
+        serializedVersion: 2
+        x: 1901
+        y: 555
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23595aa951c6710d0800000000000000
+      internalID: -3452171749311539918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS BLACK DENIM IDLE ACTIVE (1)_12
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 535
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37f9380c142a80290800000000000000
+      internalID: -7923905141071962253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS BLACK DENIM IDLE ACTIVE (1)_13
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 524
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 168b071a1539f6b00800000000000000
+      internalID: 824039235642243169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS BLACK DENIM IDLE ACTIVE (1)_14
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 492
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: affa0ca20a68a5320800000000000000
+      internalID: 2547496561701597178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS BLACK DENIM IDLE ACTIVE (1)_15
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 487
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba1f8f38e5996f550800000000000000
+      internalID: 6194306968714801579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS BLACK DENIM IDLE ACTIVE (1)_16
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 420
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e600b32c0706ff3a0800000000000000
+      internalID: -6629474089054830482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS BLACK DENIM IDLE ACTIVE (1)_17
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 429
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7be16beb02229b20800000000000000
+      internalID: 3139609324819704701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS BLACK DENIM IDLE ACTIVE (1)_18
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 428
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49359ada819a45c50800000000000000
+      internalID: 6653128472990929812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS BLACK DENIM IDLE ACTIVE (1)_19
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 396
+        width: 54
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d51833eecf30a1a90800000000000000
+      internalID: -7342551857611177635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS BLACK DENIM IDLE ACTIVE (1)_20
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 431
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ac2d9c005eb99cc0800000000000000
+      internalID: -3703719967517234010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS BLACK DENIM IDLE ACTIVE (1)_21
+      rect:
+        serializedVersion: 2
+        x: 1677
+        y: 426
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27564ced54823e430800000000000000
+      internalID: 3810933990240839026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS BLACK DENIM IDLE ACTIVE (1)_22
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 409
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ee97cfac60ce0a40800000000000000
+      internalID: 5336414181518712545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS BLACK DENIM IDLE ACTIVE (1)_23
+      rect:
+        serializedVersion: 2
+        x: 1911
+        y: 404
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deacd97ac27283030800000000000000
+      internalID: 3474570185260518125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS BLACK DENIM IDLE ACTIVE (1)_24
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 407
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0976f10a6180cdb70800000000000000
+      internalID: 8925017454810195856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS BLACK DENIM IDLE ACTIVE (1)_25
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 397
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43f3dc04b768c6b00800000000000000
+      internalID: 823180695828250420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS BLACK DENIM IDLE ACTIVE (1)_26
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 399
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fe2ffb418ae1c260800000000000000
+      internalID: 7116226727268790006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS BLACK DENIM IDLE ACTIVE (1)_27
+      rect:
+        serializedVersion: 2
+        x: 1863
+        y: 393
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9035905824ebe6e30800000000000000
+      internalID: 4498742270698803977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS BLACK DENIM IDLE ACTIVE (1)_28
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 395
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c43032642f0c66f0800000000000000
+      internalID: -690159993953962809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS BLACK DENIM IDLE ACTIVE (1)_29
+      rect:
+        serializedVersion: 2
+        x: 1771
+        y: 363
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be77788a057791610800000000000000
+      internalID: 1592435131560720363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANTS BLACK DENIM IDLE ACTIVE (1)_30
+      rect:
+        serializedVersion: 2
+        x: 1777
+        y: 346
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd55a7a0f85e706e0800000000000000
+      internalID: -1871274717630278179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PANTS BLACK DENIM IDLE ACTIVE (1)_0: 3162784259233603446
+      PANTS BLACK DENIM IDLE ACTIVE (1)_1: 2449888633041103664
+      PANTS BLACK DENIM IDLE ACTIVE (1)_10: 4580435718125051965
+      PANTS BLACK DENIM IDLE ACTIVE (1)_11: -3452171749311539918
+      PANTS BLACK DENIM IDLE ACTIVE (1)_12: -7923905141071962253
+      PANTS BLACK DENIM IDLE ACTIVE (1)_13: 824039235642243169
+      PANTS BLACK DENIM IDLE ACTIVE (1)_14: 2547496561701597178
+      PANTS BLACK DENIM IDLE ACTIVE (1)_15: 6194306968714801579
+      PANTS BLACK DENIM IDLE ACTIVE (1)_16: -6629474089054830482
+      PANTS BLACK DENIM IDLE ACTIVE (1)_17: 3139609324819704701
+      PANTS BLACK DENIM IDLE ACTIVE (1)_18: 6653128472990929812
+      PANTS BLACK DENIM IDLE ACTIVE (1)_19: -7342551857611177635
+      PANTS BLACK DENIM IDLE ACTIVE (1)_2: -4514514920470147365
+      PANTS BLACK DENIM IDLE ACTIVE (1)_20: -3703719967517234010
+      PANTS BLACK DENIM IDLE ACTIVE (1)_21: 3810933990240839026
+      PANTS BLACK DENIM IDLE ACTIVE (1)_22: 5336414181518712545
+      PANTS BLACK DENIM IDLE ACTIVE (1)_23: 3474570185260518125
+      PANTS BLACK DENIM IDLE ACTIVE (1)_24: 8925017454810195856
+      PANTS BLACK DENIM IDLE ACTIVE (1)_25: 823180695828250420
+      PANTS BLACK DENIM IDLE ACTIVE (1)_26: 7116226727268790006
+      PANTS BLACK DENIM IDLE ACTIVE (1)_27: 4498742270698803977
+      PANTS BLACK DENIM IDLE ACTIVE (1)_28: -690159993953962809
+      PANTS BLACK DENIM IDLE ACTIVE (1)_29: 1592435131560720363
+      PANTS BLACK DENIM IDLE ACTIVE (1)_3: 3840266610782425150
+      PANTS BLACK DENIM IDLE ACTIVE (1)_30: -1871274717630278179
+      PANTS BLACK DENIM IDLE ACTIVE (1)_4: -3000834650992847851
+      PANTS BLACK DENIM IDLE ACTIVE (1)_5: -1747356220675829875
+      PANTS BLACK DENIM IDLE ACTIVE (1)_6: -6249225148934622210
+      PANTS BLACK DENIM IDLE ACTIVE (1)_7: 5740770207285221099
+      PANTS BLACK DENIM IDLE ACTIVE (1)_8: 2944793281392054602
+      PANTS BLACK DENIM IDLE ACTIVE (1)_9: 9018257608029391254
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

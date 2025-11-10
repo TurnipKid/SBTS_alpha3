@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6fdc2e0fabbcb5146a71d0102d4e748b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - MuteOn: {fileID: 1980760313570895917, guid: b225b5d65a9af23438713a47e3b85ca7, type: 3}
+  - MuteOff: {fileID: -5230777498029668753, guid: 31b20a3f85bbc7b48b3980310848cb6a, type: 3}
+  - audiomanager: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

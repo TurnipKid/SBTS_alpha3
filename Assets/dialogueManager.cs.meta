@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2467dceab64be7c4db105837c9c0789c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - dialogueBubbleUI: {instanceID: 0}
+  - dialogueText: {instanceID: 0}
+  - characterNameText: {instanceID: 0}
+  - speakerPort: {instanceID: 0}
+  - dialogueData: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

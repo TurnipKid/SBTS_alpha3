@@ -1,22 +1,13 @@
 fileFormatVersion: 2
-guid: aeb518757d6ee924eaa375db410d0e77
+guid: bfd03c88d9c8ecf478ecf6eb97e1d0be
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 2146102023027987360
-    second: SPRITE SAD_0
+      213: -3413703082672768464
+    second: PANTS STAR ACTIVE_0
   - first:
-      213: 3368894951398048261
-    second: SPRITE SAD_1
-  - first:
-      213: -723041034670798011
-    second: SPRITE SAD_2
-  - first:
-      213: -2293651985461187693
-    second: SPRITE SAD_3
-  - first:
-      213: 3665902980809036376
-    second: SPRITE SAD_4
+      213: 2328090406719655316
+    second: PANTS STAR ACTIVE_1
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -108,17 +99,30 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: SPRITE SAD_0
+      name: PANTS STAR ACTIVE_0
       rect:
         serializedVersion: 2
-        x: 21
-        y: 0
-        width: 516
-        height: 800
+        x: 1130
+        y: 218
+        width: 292
+        height: 333
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -127,20 +131,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0a3945e5b6c78cd10800000000000000
-      internalID: 2146102023027987360
+      spriteID: 03a32a4022710a0d0800000000000000
+      internalID: -3413703082672768464
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SPRITE SAD_1
+      name: PANTS STAR ACTIVE_1
       rect:
         serializedVersion: 2
-        x: 525
-        y: 614
-        width: 8
-        height: 8
+        x: 1217
+        y: 549
+        width: 7
+        height: 21
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -149,74 +153,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 50200bfeb18b0ce20800000000000000
-      internalID: 3368894951398048261
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: SPRITE SAD_2
-      rect:
-        serializedVersion: 2
-        x: 489
-        y: 0
-        width: 15
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 54b8a62820e37f5f0800000000000000
-      internalID: -723041034670798011
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: SPRITE SAD_3
-      rect:
-        serializedVersion: 2
-        x: 531
-        y: 12
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 39b6738ebaf4b20e0800000000000000
-      internalID: -2293651985461187693
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: SPRITE SAD_4
-      rect:
-        serializedVersion: 2
-        x: 536
-        y: 0
-        width: 21
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8521b289657efd230800000000000000
-      internalID: 3665902980809036376
+      spriteID: 49d0581e3e90f4020800000000000000
+      internalID: 2328090406719655316
       vertices: []
       indices: 
       edges: []
@@ -235,11 +173,8 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      SPRITE SAD_0: 2146102023027987360
-      SPRITE SAD_1: 3368894951398048261
-      SPRITE SAD_2: -723041034670798011
-      SPRITE SAD_3: -2293651985461187693
-      SPRITE SAD_4: 3665902980809036376
+      PANTS STAR ACTIVE_0: -3413703082672768464
+      PANTS STAR ACTIVE_1: 2328090406719655316
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

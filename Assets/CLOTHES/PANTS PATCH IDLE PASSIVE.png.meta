@@ -1,22 +1,16 @@
 fileFormatVersion: 2
-guid: 8d7d6b37bdbbd00429b1200e87ff8a87
+guid: 6f42332d658c0394c8c9ccc22aacaba9
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 1185335309204287966
-    second: SPRITE WORRIED_0
+      213: -6062505417208577911
+    second: PANTS PATCH IDLE PASSIVE_0
   - first:
-      213: -4790180715161432952
-    second: SPRITE WORRIED_1
+      213: 4592977901457130376
+    second: PANTS PATCH IDLE PASSIVE_1
   - first:
-      213: 99931400133898821
-    second: SPRITE WORRIED_2
-  - first:
-      213: 276636776626931819
-    second: SPRITE WORRIED_3
-  - first:
-      213: 9044101947796402282
-    second: SPRITE WORRIED_4
+      213: 7177621230752567357
+    second: PANTS PATCH IDLE PASSIVE_2
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -108,38 +102,29 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: SPRITE WORRIED_0
+      name: PANTS PATCH IDLE PASSIVE_0
       rect:
         serializedVersion: 2
-        x: 10
-        y: 0
-        width: 528
-        height: 799
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ed179dcfe28237010800000000000000
-      internalID: 1185335309204287966
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: SPRITE WORRIED_1
-      rect:
-        serializedVersion: 2
-        x: 480
-        y: 0
-        width: 16
+        x: 1605
+        y: 768
+        width: 6
         height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -149,20 +134,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 88c40eed40cd58db0800000000000000
-      internalID: -4790180715161432952
+      spriteID: 980c66e8177addba0800000000000000
+      internalID: -6062505417208577911
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SPRITE WORRIED_2
+      name: PANTS PATCH IDLE PASSIVE_1
       rect:
         serializedVersion: 2
-        x: 521
-        y: 11
-        width: 6
-        height: 9
+        x: 1601
+        y: 746
+        width: 8
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -171,20 +156,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 54273e63417036100800000000000000
-      internalID: 99931400133898821
+      spriteID: 883429511198dbf30800000000000000
+      internalID: 4592977901457130376
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SPRITE WORRIED_3
+      name: PANTS PATCH IDLE PASSIVE_2
       rect:
         serializedVersion: 2
-        x: 526
-        y: 9
-        width: 12
-        height: 9
+        x: 1454
+        y: 21
+        width: 706
+        height: 722
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -193,30 +178,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b6848a2ceafc6d300800000000000000
-      internalID: 276636776626931819
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: SPRITE WORRIED_4
-      rect:
-        serializedVersion: 2
-        x: 537
-        y: 0
-        width: 10
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a60b2d6cdca138d70800000000000000
-      internalID: 9044101947796402282
+      spriteID: d301f4f0b780c9360800000000000000
+      internalID: 7177621230752567357
       vertices: []
       indices: 
       edges: []
@@ -235,11 +198,9 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      SPRITE WORRIED_0: 1185335309204287966
-      SPRITE WORRIED_1: -4790180715161432952
-      SPRITE WORRIED_2: 99931400133898821
-      SPRITE WORRIED_3: 276636776626931819
-      SPRITE WORRIED_4: 9044101947796402282
+      PANTS PATCH IDLE PASSIVE_0: -6062505417208577911
+      PANTS PATCH IDLE PASSIVE_1: 4592977901457130376
+      PANTS PATCH IDLE PASSIVE_2: 7177621230752567357
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

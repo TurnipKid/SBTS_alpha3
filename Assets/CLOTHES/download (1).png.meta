@@ -1,25 +1,13 @@
 fileFormatVersion: 2
-guid: 8dda809ed4120c143b10b902901d7c59
+guid: 27d11f0ee609f9441864aed753358b64
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 4989990147185280333
-    second: SPRITE NEUTRAL_0
+      213: -2227294742669426013
+    second: download (1)_0
   - first:
-      213: 1331028503270086383
-    second: SPRITE NEUTRAL_1
-  - first:
-      213: -7735855674136645196
-    second: SPRITE NEUTRAL_2
-  - first:
-      213: 990537981167246621
-    second: SPRITE NEUTRAL_3
-  - first:
-      213: -5079454708418656511
-    second: SPRITE NEUTRAL_4
-  - first:
-      213: -957147989015996903
-    second: SPRITE NEUTRAL_5
+      213: -8598462840186298345
+    second: download (1)_1
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -128,13 +116,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: SPRITE NEUTRAL_0
+      name: download (1)_0
       rect:
         serializedVersion: 2
-        x: 935
-        y: 59
-        width: 518
-        height: 803
+        x: 1592
+        y: 256
+        width: 484
+        height: 245
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -143,20 +131,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d458dabc991004540800000000000000
-      internalID: 4989990147185280333
+      spriteID: 3a208157b3f0711e0800000000000000
+      internalID: -2227294742669426013
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SPRITE NEUTRAL_1
+      name: download (1)_1
       rect:
         serializedVersion: 2
-        x: 1441
-        y: 672
-        width: 10
-        height: 11
+        x: 1761
+        y: 493
+        width: 14
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -165,96 +153,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: fe655532f53c87210800000000000000
-      internalID: 1331028503270086383
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: SPRITE NEUTRAL_2
-      rect:
-        serializedVersion: 2
-        x: 1406
-        y: 59
-        width: 16
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4b1356d2048b4a490800000000000000
-      internalID: -7735855674136645196
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: SPRITE NEUTRAL_3
-      rect:
-        serializedVersion: 2
-        x: 1442
-        y: 50
-        width: 33
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d1d9108bb091fbd00800000000000000
-      internalID: 990537981167246621
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: SPRITE NEUTRAL_4
-      rect:
-        serializedVersion: 2
-        x: 1458
-        y: 57
-        width: 8
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1074504dad62289b0800000000000000
-      internalID: -5079454708418656511
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: SPRITE NEUTRAL_5
-      rect:
-        serializedVersion: 2
-        x: 1466
-        y: 48
-        width: 8
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 916d835a9f687b2f0800000000000000
-      internalID: -957147989015996903
+      spriteID: 710ac4c7a9f1ca880800000000000000
+      internalID: -8598462840186298345
       vertices: []
       indices: 
       edges: []
@@ -273,12 +173,8 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      SPRITE NEUTRAL_0: 4989990147185280333
-      SPRITE NEUTRAL_1: 1331028503270086383
-      SPRITE NEUTRAL_2: -7735855674136645196
-      SPRITE NEUTRAL_3: 990537981167246621
-      SPRITE NEUTRAL_4: -5079454708418656511
-      SPRITE NEUTRAL_5: -957147989015996903
+      download (1)_0: -2227294742669426013
+      download (1)_1: -8598462840186298345
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

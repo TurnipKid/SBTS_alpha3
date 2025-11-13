@@ -1,16 +1,10 @@
 fileFormatVersion: 2
-guid: 79ccfbb19f95ece4b80ac344fc59c42e
+guid: 86f741136766a244986b1c88b68d2830
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -8537855531528335391
-    second: SPRITE HAPPY_0
-  - first:
-      213: -5820632537898863727
-    second: SPRITE HAPPY_1
-  - first:
-      213: -7185698088203019339
-    second: SPRITE HAPPY_2
+      213: -4424639891517422229
+    second: download (3)_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -102,17 +96,30 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: SPRITE HAPPY_0
+      name: download (3)_0
       rect:
         serializedVersion: 2
-        x: 17
-        y: 0
-        width: 517
-        height: 806
+        x: 1082
+        y: 402
+        width: 285
+        height: 304
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -121,52 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1ef46ab21a1738980800000000000000
-      internalID: -8537855531528335391
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: SPRITE HAPPY_1
-      rect:
-        serializedVersion: 2
-        x: 528
-        y: 11
-        width: 6
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 193357abb85f83fa0800000000000000
-      internalID: -5820632537898863727
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: SPRITE HAPPY_2
-      rect:
-        serializedVersion: 2
-        x: 533
-        y: 0
-        width: 21
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5bb947509a5474c90800000000000000
-      internalID: -7185698088203019339
+      spriteID: b65c41f16758892c0800000000000000
+      internalID: -4424639891517422229
       vertices: []
       indices: 
       edges: []
@@ -185,9 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      SPRITE HAPPY_0: -8537855531528335391
-      SPRITE HAPPY_1: -5820632537898863727
-      SPRITE HAPPY_2: -7185698088203019339
+      download (3)_0: -4424639891517422229
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1,25 +1,25 @@
 fileFormatVersion: 2
-guid: 3425fc0a6f9e89f46aa4fd0bc9c5f420
+guid: 3cd3ac2d8f433404c92837fd0ec40c19
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -8871588475327268192
-    second: SPRITE SILLY_0
+      213: -2352650311324149288
+    second: ANTENNA IDLE ACTIVE _0
   - first:
-      213: -3328994203290384334
-    second: SPRITE SILLY_1
+      213: -5709828681139582281
+    second: ANTENNA IDLE ACTIVE _1
   - first:
-      213: -6751859184690096192
-    second: SPRITE SILLY_2
+      213: 7154496452407802977
+    second: ANTENNA IDLE ACTIVE _2
   - first:
-      213: 6773866583840381343
-    second: SPRITE SILLY_3
+      213: 5604304103809791100
+    second: ANTENNA IDLE ACTIVE _3
   - first:
-      213: 8781613886946252524
-    second: SPRITE SILLY_4
+      213: 817551209730654080
+    second: ANTENNA IDLE ACTIVE _4
   - first:
-      213: 4409655528506199760
-    second: SPRITE SILLY_5
+      213: 1904405058726277852
+    second: ANTENNA IDLE ACTIVE _5
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -128,13 +128,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: SPRITE SILLY_0
+      name: ANTENNA IDLE ACTIVE _0
       rect:
         serializedVersion: 2
-        x: 936
-        y: 56
-        width: 518
-        height: 800
+        x: 167
+        y: 1236
+        width: 189
+        height: 161
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -143,20 +143,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0aa3bae0949c1e480800000000000000
-      internalID: -8871588475327268192
+      spriteID: 8d9dfc8b105b95fd0800000000000000
+      internalID: -2352650311324149288
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SPRITE SILLY_1
+      name: ANTENNA IDLE ACTIVE _1
       rect:
         serializedVersion: 2
-        x: 1408
-        y: 60
-        width: 15
-        height: 14
+        x: 168
+        y: 1321
+        width: 82
+        height: 74
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -165,64 +165,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 238ca8de8690dc1d0800000000000000
-      internalID: -3328994203290384334
+      spriteID: 7ba8654011d92c0b0800000000000000
+      internalID: -5709828681139582281
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SPRITE SILLY_2
+      name: ANTENNA IDLE ACTIVE _2
       rect:
         serializedVersion: 2
-        x: 1453
-        y: 69
-        width: 14
-        height: 12
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0c7961b28d39c42a0800000000000000
-      internalID: -6751859184690096192
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: SPRITE SILLY_3
-      rect:
-        serializedVersion: 2
-        x: 1463
-        y: 55
-        width: 13
-        height: 19
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f99d1bdb4cb910e50800000000000000
-      internalID: 6773866583840381343
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: SPRITE SILLY_4
-      rect:
-        serializedVersion: 2
-        x: 1453
-        y: 56
+        x: 180
+        y: 1315
         width: 11
-        height: 11
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -231,20 +187,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ce6911e9d4f8ed970800000000000000
-      internalID: 8781613886946252524
+      spriteID: 16c3f880e90e94360800000000000000
+      internalID: 7154496452407802977
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SPRITE SILLY_5
+      name: ANTENNA IDLE ACTIVE _3
       rect:
         serializedVersion: 2
-        x: 1465
-        y: 48
-        width: 11
-        height: 7
+        x: 230
+        y: 1249
+        width: 130
+        height: 124
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -253,8 +209,52 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0de037ef65e323d30800000000000000
-      internalID: 4409655528506199760
+      spriteID: c74b8d8b3ec76cd40800000000000000
+      internalID: 5604304103809791100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ANTENNA IDLE ACTIVE _4
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1242
+        width: 57
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08fbfa16e76885b00800000000000000
+      internalID: 817551209730654080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ANTENNA IDLE ACTIVE _5
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 1150
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd236d99f4ecd6a10800000000000000
+      internalID: 1904405058726277852
       vertices: []
       indices: 
       edges: []
@@ -263,7 +263,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 821f75d7b45fcab4f926cc0e0e5c19e7
+    spriteID: 65a3a2ca6c1385b47ab082af0d5a931f
     internalID: 0
     vertices: []
     indices: 
@@ -273,12 +273,12 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      SPRITE SILLY_0: -8871588475327268192
-      SPRITE SILLY_1: -3328994203290384334
-      SPRITE SILLY_2: -6751859184690096192
-      SPRITE SILLY_3: 6773866583840381343
-      SPRITE SILLY_4: 8781613886946252524
-      SPRITE SILLY_5: 4409655528506199760
+      ANTENNA IDLE ACTIVE _0: -2352650311324149288
+      ANTENNA IDLE ACTIVE _1: -5709828681139582281
+      ANTENNA IDLE ACTIVE _2: 7154496452407802977
+      ANTENNA IDLE ACTIVE _3: 5604304103809791100
+      ANTENNA IDLE ACTIVE _4: 817551209730654080
+      ANTENNA IDLE ACTIVE _5: 1904405058726277852
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

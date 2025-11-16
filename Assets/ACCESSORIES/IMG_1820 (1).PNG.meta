@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 71b18ffb0c1e53b4f892e9fa3b980a87
+guid: 4a066b7b4114a5247b10b9c05bffa2b0
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -2496040466669729985
-    second: download (2)_0
+      213: -1881076052368872920
+    second: IMG_1820 (1)_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,23 +113,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: download (2)_0
+      name: IMG_1820 (1)_0
       rect:
         serializedVersion: 2
-        x: 1082
-        y: 402
-        width: 285
-        height: 304
+        x: 1854
+        y: 161
+        width: 258
+        height: 516
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f37862f8b684c5dd0800000000000000
-      internalID: -2496040466669729985
+      spriteID: 82a2f07fb4315e5e0800000000000000
+      internalID: -1881076052368872920
       vertices: []
       indices: 
       edges: []
@@ -138,7 +138,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 451a1c99f0313e04c9ea2831bbc9d466
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      download (2)_0: -2496040466669729985
+      IMG_1820 (1)_0: -1881076052368872920
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

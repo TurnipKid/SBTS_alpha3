@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 71b18ffb0c1e53b4f892e9fa3b980a87
+guid: c3b63983cc775d84b9fa09f0a37e8dff
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -2496040466669729985
-    second: download (2)_0
+      213: 6161995413976034183
+    second: HEADPHONES PASSIVE_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,23 +113,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: download (2)_0
+      name: HEADPHONES PASSIVE_0
       rect:
         serializedVersion: 2
-        x: 1082
-        y: 402
-        width: 285
-        height: 304
+        x: 1176
+        y: 713
+        width: 159
+        height: 182
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f37862f8b684c5dd0800000000000000
-      internalID: -2496040466669729985
+      spriteID: 78ba0ad6e2ec38550800000000000000
+      internalID: 6161995413976034183
       vertices: []
       indices: 
       edges: []
@@ -138,7 +138,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 451a1c99f0313e04c9ea2831bbc9d466
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      download (2)_0: -2496040466669729985
+      HEADPHONES PASSIVE_0: 6161995413976034183
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

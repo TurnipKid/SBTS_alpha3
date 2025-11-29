@@ -116,10 +116,10 @@ TextureImporter:
       name: PANTS PATCH ACTIVE_0
       rect:
         serializedVersion: 2
-        x: 1135
-        y: 146
-        width: 389
-        height: 399
+        x: 1132
+        y: 145
+        width: 329
+        height: 409
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}

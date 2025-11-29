@@ -119,12 +119,12 @@ TextureImporter:
       name: PANTS PATCH IDLE ACTIVE_0
       rect:
         serializedVersion: 2
-        x: 1605
-        y: 768
-        width: 6
-        height: 13
+        x: 1428
+        y: 13
+        width: 683
+        height: 761
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -146,7 +146,7 @@ TextureImporter:
         width: 706
         height: 745
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -163,7 +163,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 98a227a2bcc0ee64b86d776a68c6911f
     internalID: 0
     vertices: []
     indices: 

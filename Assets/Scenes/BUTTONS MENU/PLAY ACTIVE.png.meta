@@ -1,10 +1,16 @@
 fileFormatVersion: 2
-guid: 1bb6a2d20ae23e444a21dd4af5e79896
+guid: ef21ead7e2e82694dbdf9257e7dd917e
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -9214592895581947111
-    second: SHIRT SWIRL ACTIVE_0
+      213: -7221667626417090442
+    second: PLAY ACTIVE_0
+  - first:
+      213: -3914796233408876374
+    second: PLAY ACTIVE_1
+  - first:
+      213: -2132090635156141706
+    second: PLAY ACTIVE_2
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,23 +119,67 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: SHIRT SWIRL ACTIVE_0
+      name: PLAY ACTIVE_0
       rect:
         serializedVersion: 2
-        x: 1092
-        y: 454
-        width: 272
-        height: 254
+        x: 2
+        y: 340
+        width: 2141
+        height: 981
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 91bfffc15903f1080800000000000000
-      internalID: -9214592895581947111
+      spriteID: 67098794e8b77cb90800000000000000
+      internalID: -7221667626417090442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLAY ACTIVE_1
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1311
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa070a33199dba9c0800000000000000
+      internalID: -3914796233408876374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLAY ACTIVE_2
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 501
+        width: 21
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 679c4961dda4962e0800000000000000
+      internalID: -2132090635156141706
       vertices: []
       indices: 
       edges: []
@@ -138,7 +188,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: ed456aec9baa3bd4a8024623b173d54b
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -148,7 +198,9 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      SHIRT SWIRL ACTIVE_0: -9214592895581947111
+      PLAY ACTIVE_0: -7221667626417090442
+      PLAY ACTIVE_1: -3914796233408876374
+      PLAY ACTIVE_2: -2132090635156141706
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

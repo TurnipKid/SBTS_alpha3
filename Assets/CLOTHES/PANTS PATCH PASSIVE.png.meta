@@ -119,12 +119,12 @@ TextureImporter:
       name: PANTS PATCH PASSIVE_0
       rect:
         serializedVersion: 2
-        x: 1216
-        y: 546
-        width: 7
-        height: 21
+        x: 1132
+        y: 145
+        width: 329
+        height: 409
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -146,7 +146,7 @@ TextureImporter:
         width: 389
         height: 399
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -159,11 +159,33 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: PANTS PATCH PASSIVE_2
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 140
+        width: 310
+        height: 411
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e11544d7232b0f47abe1ab86583a883
+      internalID: 1955179618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 1fbe54598ac8bec4bbbbb50268597c66
     internalID: 0
     vertices: []
     indices: 
@@ -175,6 +197,7 @@ TextureImporter:
     nameFileIdTable:
       PANTS PATCH PASSIVE_0: 4280935386857024374
       PANTS PATCH PASSIVE_1: 6589562072382815088
+      PANTS PATCH PASSIVE_2: 1955179618
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

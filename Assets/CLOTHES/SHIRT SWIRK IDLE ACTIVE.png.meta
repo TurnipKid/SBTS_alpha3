@@ -119,10 +119,10 @@ TextureImporter:
       name: SHIRT SWIRK IDLE ACTIVE_0
       rect:
         serializedVersion: 2
-        x: 531
-        y: 982
-        width: 549
-        height: 491
+        x: 549
+        y: 984
+        width: 514
+        height: 474
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
